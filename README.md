@@ -1,3 +1,7 @@
+# Updated Repo
+
+Please see https://github.com/paypal/paypal-checkout for the new home of the PayPal Checkout javascript integration. This repo will soon be deprecated, so please try out paypal-checkout and let us know any feedback. Thanks!
+
 # PayPal Payment Buttons [![Build Status](https://travis-ci.org/paypal/JavaScriptButtons.png?branch=master)](https://travis-ci.org/paypal/JavaScriptButtons)
 
 PayPal payment buttons that are as easy as including a snippet of code. [Try it out and configure your own](http://paypal.github.com/JavaScriptButtons/).
